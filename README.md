@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Mark
-- 👀 I’m interested 0n HR, Programming, Vocal Recording ...
-- 🌱 I've been into the conversion between HR and technical approaches and the further potential.
-- 📫 Please refer to my linkedin URL if you are curious about my professional life in HR field (linkedin.com/in/markjang)
-- Please feel free to reach out to me :)
+👋 Hi there, I’m Mark.
+
+👀 I'm interested in Human Resources Management and Programming.
+
+🌱 I've been fascinated by the integration of HR and technology and the unimaginable potential it holds. Right now, I’m excitedly and quite drastically exploring this intersection and diving deep into it with a lot of joy and enthusiasm.
+
+📫 Curious about my professional journey in HR or my dreams in this field? Feel free to check out my LinkedIn!
+
+Please don’t hesitate to reach out via LinkedIn if you'd like to connect or chat.
